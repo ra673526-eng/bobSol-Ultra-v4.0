@@ -1,4 +1,4 @@
-# bobSol-Ultra-v4.0
+
 # bobSol Ultra v4.0
 
 An AutoHotkey v1 Macro Engine designed for automated gameplay, pixel detection, and Discord logging.
